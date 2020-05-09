@@ -1,6 +1,6 @@
 # Classifying Brain Signal of Pain
 <pre>
-Course project of MGE304 Management Engineering Methodologies, UNIST
+Course project of MGE304: Methodologies of Management Engineering, UNIST
 </pre>
 
 ## Description
