@@ -18,4 +18,4 @@ SVM w/ Sigmoid kernel  | 18.4913
 MLP | 18.3357  
 
 <hr>
-By. Seokju Hahn / https://www.kaggle.com/vaseline555 / sjhahn11512@naver.com
+By. Seok-Ju Hahn / seokjuhahn@unist.ac.kr
